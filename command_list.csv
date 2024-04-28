@@ -1,0 +1,296 @@
+    1  git status
+    2  git add .
+    3  git status
+    4  git commit -m "add style for select"
+    5  git status
+    6  git push origin master
+    7  git status
+    8  git add .
+    9  git status
+   10  git commit -m "add flex-activities, footer,slider"
+   11  git status
+   12  git status
+   13  git add .
+   14  git status
+   15  git commit -m "added footer"
+   16  git status
+   17  git remote add origin https://github.com/YuliiaBrakova/hotelproject.git
+   18  git remote -v
+   19  git push origin master
+   20  git status
+   21  git clone https://gitlab.com/skillup-react-0-1/yulia.git
+   22  git status
+   23  git add .
+   24  git status
+   25  git commit -m "change text"
+   26  fit status
+   27  git status
+   28  git push origin master
+   29  pwd
+   30  ls -l
+   31  cd/c/Users/YuliiaBrakova/
+   32  cd /c/Users/YuliiaBrakova/
+   33  cd /c/Users/YuliiaBrakova/
+   34  cd /c/Users/38095/YuliiaBrakova/
+   35  pwd
+   36  cd D
+   37  mkdir test_dir1
+   38  ls 
+   39  ls l-
+   40  ls -1
+   41  ls -l
+   42  cd test_dir1
+   43  pwd
+   44  clear
+   45  ls -l
+   46  touch test.txt
+   47  ls -l
+   48  cd /c/Users/38095/YuliiaBrakova
+   49  cd test_dir1
+   50  pwd
+   51  ls -l
+   52  vim test.txt
+   53  ls -l
+   54  cat text.txt
+   55  cat test.txt
+   56  head test.txt
+   57  tai test.txt
+   58  tail test.txt
+   59  pwd
+   60  clear
+   61  mkdir child_dir
+   62  ls -l
+   63  cp test.txt child.dir/ 
+   64  cp test.txt child_dir/
+   65  ls -l
+   66  cd child_dir
+   67  ls -l
+   68  rm test.txt
+   69  ls -l
+   70  cd ..
+   71  ls -l
+   72  clear
+   73  mv test.txt child_dir/
+   74  ls -l
+   75  cd child_dir
+   76  ls -l
+   77  clear
+   78  ping google.com
+   79  ping google.com
+   80  date
+   81  whoami
+   82  ipconfig
+   83  ifconfig
+   84  cd ..
+   85  cd ..
+   86  ipconfig
+   87  systeminfo
+   88  clear
+   89  df -h
+   90  help ls
+   91  ls --help
+   92  cd ..
+   93  pwd
+   94  cd
+   95  cd /c/User/38095/
+   96  cd /c/User/38095/Destop
+   97  cd /c/User/38095/YuliiaBrakova
+   98  cd test_dir1
+   99  cd
+  100  cd /c/Users/38095/YuliiaBrakova/test_dir1/
+  101  ls -l
+  102  rm -rf child_dir
+  103  ls -l
+  104  cd
+  105  cd /c/Users/38095/YuliiaBrakova/test_dir1/
+  106  pwd
+  107  git config --global user.name YuliiaBrakova
+  108  git config --global user.email yuliia.brakova@gmail.com
+  109  git config --get user.name
+  110  git config --get user.email
+  111  git clone https://github.com/YuliiaBrakova/test_goit.git
+  112  git clone https://github.com/YuliiaBrakova/test_goit.git
+  113  git clone https://github.com/YuliiaBrakova/test_goit.git
+  114  git clone https://github.com/YuliiaBrakova/test_goit.git
+  115   git clone https://github.com/YuliiaBrakova/test_goit.git
+  116  git clone https://github.com/YuliiaBrakova/test_goit.git
+  117  git clone https://github.com/YuliiaBrakova/test_goit.git
+  118  cd ..
+  119  cd /c/Users/38095/YuliiaBrakova/test_dir1/
+  120  pwd
+  121  git config --global user.name YuliiaBrakova
+  122  git config --global user.email yuliia.brakova@gmail.com
+  123  git clone Yuliia Brakova@Yuliia MINGW64 ~/Desktop
+  124  $ cd ..
+  125  Yuliia Brakova@Yuliia MINGW64 ~
+  126  $ cd /c/Users/38095/YuliiaBrakova/test_dir1/
+  127  Yuliia Brakova@Yuliia MINGW64 ~/YuliiaBrakova/test_dir1
+  128  $ pwd
+  129  /c/Users/38095/YuliiaBrakova/test_dir1
+  130  Yuliia Brakova@Yuliia MINGW64 ~/YuliiaBrakova/test_dir1
+  131  $ git config --global user.name YuliiaBrakova
+  132  Yuliia Brakova@Yuliia MINGW64 ~/YuliiaBrakova/test_dir1
+  133  $ git config --global user.email yuliia.brakova@gmail.com
+  134  Yuliia Brakova@Yuliia MINGW64 ~/YuliiaBrakova/test_dir1
+  135  $ git clone
+  136  clear
+  137  git clone 
+  138  clear
+  139  git clone https://github.com/YuliiaBrakova/test_goit.git
+  140  git config --get user.name
+  141  ls -a
+  142  rm -rf test_goit
+  143  ls -a
+  144  git clone https://github.com/YuliiaBrakova/test_goit.git
+  145  ls -a
+  146  git clone https://github.com/YuliiaBrakova/test_goit.git
+  147   ssh -T -p 443 git@ssh.github.com
+  148  git clone https://github.com/YuliiaBrakova/test_goit.git
+  149  ssh -T -p 443 git@ssh.github.com
+  150  git clone https://github.com/YuliiaBrakova/test_goit.git
+  151  git update-git-for-windows
+  152  git update
+  153  git clone https://github.com/YuliiaBrakova/test_goit.git
+  154  git comfig --git user.name
+  155  ls -l
+  156  mkdit test_dir1
+  157  mkdir test_dir1
+  158  ls -l
+  159  ghit config --global user.name YuliiaBrakova
+  160   git config --global user.name YuliiaBrakova
+  161  git config --global user.email yuliia.brakova@gmail.com
+  162  git clone https://github.com/YuliiaBrakova/test_goit.git
+  163  git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git
+  164  git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git
+  165  пше штше
+  166  git init
+  167   git clone https://github.com/YuliiaBrakova/test_goit.git
+  168  git clone https://github.com/YuliiaBrakova/test_goit.git
+  169  ls -a
+  170  ls -l
+  171  pwd
+  172  cd /c/Users/38095/Desktop/test_dir1/
+  173  ls -l
+  174  cd test_goit
+  175  git status
+  176  git checkout -b test_branch
+  177  git status
+  178  git branch
+  179  ls -l
+  180  touch test.txt
+  181  ls -l
+  182  git status
+  183  git add test.txt
+  184  git status
+  185  gi commit -m 'added new file test.txt'
+  186  git commit -m 'added new file test.txt'
+  187  git status
+  188  git log
+  189  git push origin test_branch
+  190   git push origin test_branch
+  191  git checkout main
+  192  git log
+  193  git merge test_brunch
+  194  git log
+  195  git merge test_branch
+  196  git log
+  197  git status
+  198  git push
+  199  git push orige main
+  200  git push origin main
+  201  git chechout -b test_branch_2
+  202  git log
+  203  git status
+  204  git pull
+  205  git status
+  206  ls -l
+  207  touch .gitignor
+  208  ls -l
+  209  ls -la
+  210  vin .gitignor
+  211  vin .gitignor
+  212  git status
+  213  gi add
+  214  git add
+  215  git add .gitignor
+  216  git status
+  217  vin .gitignor
+  218  vim .gitignore
+  219  git status
+  220  git add .gitignore
+  221  git status
+  222  git commin -m "added gitignior"
+  223  git push origin main
+  224  git status
+  225  ls -la
+  226  touch new_file.txt
+  227  git status
+  228  pwd
+  229  cd /c/Users/38095/Desktop/hw/
+  230  -c && rm ~/.bash_history
+  231  git confirm --global user.name YuliiaBrakova
+  232  git --help
+  233  git config --global user.name YuliiaBrakoba
+  234  git config --git user.name
+  235  $ git config --get user.name
+  236   git config --git user.name
+  237  git config --get user.name
+  238  git config --global user.email yuliia.brakova@gmail.com
+  239  git config --get user.email
+  240  git clone https://github.com/YuliiaBrakova/HW_10.git
+  241  ls -l
+  242  pwd
+  243  cd /c/Users/38095/Desktop/hw/HW_10/
+  244  touch text_ignore.txt
+  245  ls -l
+  246  rm -rf text_ignore.txt
+  247  ls -l
+  248  touch .gitignore
+  249  ls -l
+  250  ls -la
+  251  vim .gitignore
+  252  git status
+  253  git add .gitignore
+  254  git status
+  255  git commit -m "Added gitignore"
+  256  git push
+  257  git push origin main
+  258  git status
+  259  ls -la
+  260  touch text_ignore.txt
+  261  git status
+  262  git config --git user.name
+  263  git config --get
+  264  git config --get user.name
+  265  touch main_test.txt
+  266  ls -l
+  267  touch text_ignore.txt
+  268  git status
+  269  git add
+  270  git add main_test.txt
+  271  git status
+  272  git commit -m "added main_test.txt"
+  273  git push origin main
+  274  git branch develop
+  275  git chechout develop
+  276  git checkout develop
+  277  touch develop_test.txt
+  278  git status
+  279  git add develop_test.txt
+  280  git status
+  281  git commit -m "added develop_test.txt"
+  282  git push 
+  283  git push origin develop
+  284  vim develop_test.txt
+  285  git status
+  286  git add develop_test.txt
+  287  git commit -m "changed develo_test"
+  288  git status
+  289  git push origin develop
+  290  git checkout main
+  291  git merge develop
+  292  git log
+  293  git sdtatus
+  294  git status
+  295  git push origin main
+  296  history > command_list.csv
